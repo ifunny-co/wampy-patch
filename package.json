@@ -1,6 +1,6 @@
 {
   "name": "wampy-patch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Patches wampy to support wamp.json (instead of the default that wampy uses, which is wamp.2.json), and reflects that with the server protocol",
   "main": "index.js",
   "dependencies": {
