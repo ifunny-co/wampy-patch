@@ -1,0 +1,26 @@
+{
+  "name": "wampy-patch",
+  "version": "1.0.0",
+  "description": "Patches wampy to support wamp.json (instead of the default that wampy uses, which is wamp.2.json), and reflects that with the server protocol",
+  "main": "index.js",
+  "dependencies": {
+    "wampy": "^6.4.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ifunny-co/wampy-patch.git"
+  },
+  "keywords": [
+    "wampy",
+    "wamp",
+    "wamp.2.json",
+    "wamp.json"
+  ],
+  "author": "Tobi",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/ifunny-co/wampy-patch/issues"
+  },
+  "homepage": "https://github.com/ifunny-co/wampy-patch#readme"
+}
